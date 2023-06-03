@@ -1,0 +1,65 @@
+header {
+
+width: 450px;
+background-color: darkgreen;
+background-position-x: right;
+
+}
+.seccionPrincipal{
+    color: blanchedalmond;
+   
+    
+}
+.logoHeader{
+    
+    display: inline-block;
+    
+   
+}
+.logoHeader img{
+    width:40px;
+    height:40px;
+    width: 100%;
+   
+    }
+
+
+
+.imagen{
+    width: 200px;
+    height:200px;
+    display: inline-block;
+    
+}
+.imagen img{width: 100%;}
+.texto{
+
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 12px;
+        display: inline-block;
+        
+
+
+}
+.secundaria {
+
+    width: 450px ;
+    background-color: brown;
+    
+}
+
+.footer{
+    width: 450px ;
+    background-color: darkgreen;
+    display: inline-block;
+    align-content: center;
+    
+
+}
+.textoFooter{
+    color: blanchedalmond; 
+ text-align: center;
+    
+    
+
+}
